@@ -1,5 +1,5 @@
 # Table of Contents
-* [Introduction] (# Introduction)
+* [Introduction](https://github.com/elenaivadreyer/urban-heat-munich/blob/main/README.md#introduction))
 * [What is the Google Earth Engine?]
 * [About the Project]
 * [Methodology]
