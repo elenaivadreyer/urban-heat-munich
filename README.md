@@ -1,4 +1,12 @@
 # Table of Contents
+* [Introduction] (#Inroduction)
+* [What is the Google Earth Engine?]
+* [About the Project]
+* [Methodology]
+* [Data Sources]
+* [Findings]
+* [Policy Implications]
+* [Visualizations]
 
 # Introduction
 Urban heat islands (UHIs) pose significant challenges to city living, affecting health, energy consumption, and overall quality of life. Munich, like many other urban areas, experiences variations in temperature across its districts due to differences in infrastructure, vegetation, and urban planning. This project aims to map and analyze the urban heat phenomenon across Munich on a district level to inform better urban planning and mitigate heat effects.
@@ -17,10 +25,10 @@ Landsat
 Sentinel satellite images
 Socio-demographic data
 
-# Policy Implications
+# Findings
 tba
 
-# Findings
+# Policy Implications
 tba
 
 # Visualizations
