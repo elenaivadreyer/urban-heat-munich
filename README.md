@@ -1,5 +1,5 @@
 # Table of Contents
-* [Introduction] (#Introduction)
+* [Introduction] (# Introduction)
 * [What is the Google Earth Engine?]
 * [About the Project]
 * [Methodology]
